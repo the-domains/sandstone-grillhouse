@@ -1,7 +1,7 @@
 name: Sandstone Grillhouse
 favicon: null
-layout_spectrum: 0.19818
-typography_spectrum: 1
+layout_spectrum: 1
+typography_spectrum: 0.33112
 title: Sandstone Grillhouse
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0d0d0b'
-    - '#423427'
-    - '#81653d'
-    - '#fdfeff'
-    - '#e2cb7f'
-  brandStrength: 0.1875
-  lightness: 0.1875
-  saturation: 0.625
-  rhythmicContrast: 1
+    - '#220000'
+    - '#806a76'
+    - '#990002'
+    - '#eee8dc'
+    - '#e4a15d'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
